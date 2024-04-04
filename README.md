@@ -50,9 +50,7 @@ admin.site.register(Book, BookAdmin)
 ```
 
 ## OUTPUT
-
 ![alt text](exp2/OUTPUT.png)
-
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
